@@ -9,7 +9,7 @@ Fynolab is more than just a software company; it's a collective of dedicated pro
 As the flagship brand of our company, asyncpush.com serves as the hub for our diverse portfolio of software solutions. From innovative business applications to groundbreaking technological advancements, Fynolab.com is the doorway to a world where possibilities are limitless.
 
 ## Our Saas Offerings
-[WebPush Notifier](https://webpushnotifications.com) is the best [Web Push Notifications](https://webpushnotifications.com) service provider.
+[WebPush Notifier](https://webpushnotifier.com) is the best [Web Push Notifications](https://webpushnotifier.com) service provider.
 
 
 ## Our Approach
